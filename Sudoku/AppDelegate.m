@@ -8,6 +8,7 @@
 
 #import "AppDelegate.h"
 #import "MenuVC.h"
+#import "MainGameVC.h"
 
 @interface AppDelegate ()
 
@@ -28,8 +29,10 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.window.backgroundColor = [UIColor whiteColor];
     
-    MenuVC *menuVC = [MenuVC new];
-    self.window.rootViewController = menuVC;
+//    MenuVC *menuVC = [MenuVC new];
+//    self.window.rootViewController = menuVC;
+    MainGameVC *mainGameVC = [MainGameVC new];
+    self.window.rootViewController = mainGameVC;
     
     [self.window makeKeyAndVisible];
     

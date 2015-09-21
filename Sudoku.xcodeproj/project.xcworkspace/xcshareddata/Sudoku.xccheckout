@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>39C3436F-DE94-4A68-8243-EC99CAD8852D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sudoku</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A88D82D1EB577A16C4C00B15A1A2C8F49792872</key>
+		<string>https://github.com/allan-638/Sudoku.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sudoku.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A88D82D1EB577A16C4C00B15A1A2C8F49792872</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/allan-638/Sudoku.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A88D82D1EB577A16C4C00B15A1A2C8F49792872</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A88D82D1EB577A16C4C00B15A1A2C8F49792872</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Sudoku_Git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
